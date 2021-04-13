@@ -444,7 +444,7 @@ section {
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #050d18;
+  color: grey;
 }
 
 .resume .resume-item {
@@ -460,7 +460,7 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #050d18;
+  color: grey;
   margin-bottom: 10px;
 }
 
@@ -780,7 +780,7 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #050d18;
+  color: #223755;
 }
 
 .contact .info p {
@@ -961,7 +961,7 @@ section {
 .breadcrumbs ol li + li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #0e2442;
+  color: grey;
   content: "/";
 }
 
