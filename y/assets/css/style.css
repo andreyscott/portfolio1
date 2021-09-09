@@ -10,8 +10,16 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #4d4f50;
+  color: #adb1b3;
   background-color: #040b14;
+}
+
+.row {
+  width: 100%;
+}
+
+.row:hover {
+  cursor: pointer;
 }
 
 a {
@@ -375,7 +383,7 @@ section {
   line-height: 40px;
   display: block;
   font-weight: 700;
-  color: #050d18;
+  color: #1a2d47;
   margin-left: 60px;
 }
 
